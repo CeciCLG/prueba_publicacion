@@ -1,7 +1,7 @@
-
+import Header from "./HeaderFolder/Header"
 function App() {
   return (
-    <h1>Template</h1>
+    <Header />
   )
 }
 
